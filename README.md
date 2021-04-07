@@ -27,3 +27,6 @@ Press enter to change the image in window "Arena" and "q" to exit.
 
 #
 IDE used is JetBrains PyCharm Community Edition 2019.2.5 x64
+
+#
+Images used are taken from Google Chrome
