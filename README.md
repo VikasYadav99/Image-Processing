@@ -2,10 +2,10 @@
 
 Using Image Processing this code finds a shortest path between two junctions in the given image of line maze.
 
-There are 3 python scripts named
-a. path_finding.py 
-b. helper_functions.y
-c. helper_class.py
+There are 3 python scripts named \n
+a. path_finding.py \n
+b. helper_functions.y \n
+c. helper_class.py \n
 
 path_finding.py is the main script to run
 
