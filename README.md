@@ -13,7 +13,7 @@ cv2 and numpy are the modules used.
 Image is read, resized, transformed and filtered to find junctions. 
 These junction co-ordinates are then used to make a graph. 
 This graph is then used to find shortest path using **Dijkstra's algorithm**. 
-After obtaining shortest path in the transformed image, it is again transformed to its original percept and showed in "ARENA" window.
+After obtaining shortest path in the transformed image, it is again transformed to its original view angle and showed in "ARENA" window.
  
 #
 **How to run the program:** 
