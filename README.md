@@ -8,6 +8,7 @@ path_finding.py is the main script.
 
 
 Flow of code:
+
 Image is read, resized and filtered to find junctions.
 
 These junction co-ordinates are then used to make a graph.
