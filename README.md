@@ -24,3 +24,6 @@ Square will be marked at the start point and circle at the end point.
 Shortest path will be highlighted in **green**. 
 Now, different start and end points can also be selected. 
 Press enter to change the image in window "Arena" and "q" to exit. 
+
+#
+IDE used is JetBrains PyCharm Community Edition 2019.2.5 x64
