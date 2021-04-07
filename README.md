@@ -12,7 +12,7 @@ cv2 and numpy are the modules used.
  
 Image is read, resized and filtered to find junctions. 
 These junction co-ordinates are then used to make a graph. 
-This graph is then used to find shortest path. 
+This graph is then used to find shortest path using **Dijkstra's algorithm**. 
  
 #
 **How to run the program:** 
