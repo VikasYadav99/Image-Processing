@@ -1,17 +1,20 @@
 # Shortest-Path-using-Image-Processing
 
+#
 **Using Image Processing this code finds a shortest path between two junctions in the given image of line maze.**
-
+ 
 There are 3 python scripts named path_finding.py, helper_functions.py, helper_class.py 
 path_finding.py is the main script. 
 cv2 and numpy are the modules used. 
 
+#
 **Flow of code:** 
-
+ 
 Image is read, resized and filtered to find junctions. 
 These junction co-ordinates are then used to make a graph. 
 This graph is then used to find shortest path. 
  
+#
 **How to run the program:** 
 
 Run the path_finding.py file. 
