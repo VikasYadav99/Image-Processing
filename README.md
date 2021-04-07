@@ -22,7 +22,7 @@ Run the path_finding.py file.
 
 "Arena" and "solution_img" windows will appear.
 
-Using mouse **left click** select any junction as **_start point_** and **right click** for **_end point_** from the window named "Arena".
+Using mouse **left click** select any point on line as **_start point_** and **right click** for **_end point_** in the window named "Arena".
 
 Square will be marked at the start point and circle at the end point.
 
