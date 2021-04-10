@@ -1,4 +1,4 @@
-# Shortest-Path-using-Image-Processing
+# Shortest-Path-using-Image-Processing-using-Dijkstra's-Algorithm
 
 #
 **Using Image Processing this code finds a shortest path between two junctions in the given image of line maze.**
